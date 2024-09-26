@@ -8,7 +8,7 @@ I’m @chairman-q, but you can call me Q for short.
 - Self-taught project manager (basically a cooler way of saying I fucked up my projects many times before and "learned from those experiences")
 - Learning how to use Lua, HTML, and JavaScript
 
-Contact me for any questions:
+Contact me for any questions or just talk about random stuff idk:
 - Discord (preferred method): **[mister.q](<https://discord.com/users/574211473316904971>)**
 - Email: [mr.chairmanq@gmail.com](mailto:mr.chairmanq@gmail.com)
 

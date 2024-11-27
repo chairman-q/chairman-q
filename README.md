@@ -5,7 +5,7 @@ I’m @chairman-q, but you can call me Q for short.
 - Former C# programmer (only because it's a requirement for a district competition)
 - Professionally utilised Pascal for city-wide academic competitions before (I wholeheartedly hate it and do not wish to use it again)
 - Average Blender & Photoshop enjoyer (I don't use these at professional level; however, I can still do some commissions if needed)
-- Self-taught project manager (basically a cooler way of saying I fucked up my projects many times before and "learned from those experiences")
+- Self-taught project lead (basically a cooler way of saying I fucked up my projects many times before and "learned from those experiences")
 - Learning how to use Lua, HTML, and JavaScript
 
 Contact me for any questions or just talk about random stuff idk:

@@ -11,7 +11,7 @@ I’m @chairman-q, but you can call me "Mr. Q" or "Q" for short.
 - Studying Industrial & Graphic Design at VNU University of Engineering and Technology, co-founded a club called UET Innovation Space
 
 Contact me for any questions or just talk about random stuff idk:
-- Email: [hi@misterq.net](mailto:hi@misterq.net)
+- Email: [hello@misterq.net](mailto:hello@misterq.net) | [hi@misterq.net](mailto:hi@misterq.net)
 - Discord: [mister.q](<https://discord.com/users/574211473316904971>)
 
 <!---

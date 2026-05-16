@@ -1,13 +1,16 @@
-I’m @chairman-q, but you can call me "Mr. Q" or "Q" for short.
+![Status](https://img.shields.io/badge/status-stu--dying-red?style=for-the-badge)
+![Profession](https://img.shields.io/badge/skill-silly-green?style=for-the-badge)
+
+I’m ChairmanQ, but please call me "Mr. Q" or "Q" for short.
 
 - Novice **graphic & UI designer** (mostly modern and minimalistic styles)
 - Average Blender & Photoshop enjoyer (I don't use these at a professional level; however, I can still do most stuff that I need for my businesses and commissions)
 - Former Python programmer, used to have done some pretty fun stuff with it (e.g. using Python to build in Minecraft)
 - Former C# programmer
 - Used to utilise Pascal professionally for city-wide academic competitions (I wholeheartedly hate it and do not wish to use it again)
-- "Self-taught **project lead**" (basically a cooler way of saying I fucked up my projects so many times before and "learning from the experiences")
+- "Self-taught **project lead**" (basically a cooler way of saying I fucked up my projects so many times before and "learning from the experiences" and have to fully rely on other people to do stuff)
 - *I do have an irl company fully in operation*, and also working on *2 startups* and *4 passion projects* (private stuff for now)
-- Learning to use Lua, HTML, and JavaScript
+- Learning to use HTML, JavaScript, and Lua
 - Studying Industrial & Graphic Design at VNU University of Engineering and Technology, co-founded a club called UET Innovation Space
 
 Contact me for any questions or just talk about random stuff idk:
